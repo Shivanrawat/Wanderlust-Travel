@@ -67,9 +67,9 @@ const sessionOptions =  {
   },
 };
 
-app.get("/" , (req ,res)=>{
-    res.send("https://wanderlust-travel-xg3u.onrender.com/listings");
-});
+// app.get("/" , (req ,res)=>{
+//     res.send("https://wanderlust-travel-xg3u.onrender.com/listings");
+// });
 
 
 
